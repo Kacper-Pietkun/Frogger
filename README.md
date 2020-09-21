@@ -11,11 +11,7 @@
 
 ## Visuals
 
-**Menu**
-![menu](Images/main_menu.png)
 
-**Gameplay**
-![menu](Images/gameplay.png)
 
 ## Description
 
