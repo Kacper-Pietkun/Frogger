@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{6527ca1f-e09c-4a45-b9de-63cc979ba00b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{d4e0d827-d758-40f2-8b17-390ead0085d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki graficzne">
+      <UniqueIdentifier>{08ddf614-858c-482a-a655-daf38d481e40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="drawing.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="world.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="element.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="moving_element.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="car.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_trunk.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="turtle.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="ending_spot.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="point_manager.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="player.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="drawing.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="structures.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="constants.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="world.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="element.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="moving_element.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="car.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="tree_trunk.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="turtle.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="ending_spot.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="point_manager.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="GameGraphics\car_1_left_1.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_left_2.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_left_3.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_left_4.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_left_5.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_left_6.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_right_1.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_right_2.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_right_3.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_right_4.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_right_5.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_1_right_6.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_2_left_1.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\car_2_right_1.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\cs8x8.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\cs20x20.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\flowers.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\frog_down.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\frog_down_move.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\frog_left.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\frog_left_move.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\frog_right.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\frog_right_move.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\frog_up.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\frog_up_move.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\lily.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\lily_busy.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\pavement.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\pointer.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\route.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\tree_trunk_long.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\tree_trunk_middle.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\tree_trunk_short.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_long.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_long_2.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_long_dive_1.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_long_dive_2.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_long_dive_3.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_long_dive_4.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_long_dive_all.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_short.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_short_2.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_short_dive_1.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_short_dive_2.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_short_dive_3.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_short_dive_4.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\turtle_short_dive_all.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+    <Image Include="GameGraphics\water.bmp">
+      <Filter>Pliki graficzne</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
